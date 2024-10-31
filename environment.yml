@@ -1,0 +1,13 @@
+name: caso_practico
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - imbalanced-learn
